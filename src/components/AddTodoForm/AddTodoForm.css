@@ -1,0 +1,16 @@
+.todo-form__input {
+  height: 45px;
+  font-size: 25px;
+  border: none;
+  border-bottom: 1px solid #5a5a5a;
+  margin-right: 10px;
+}
+
+.todo-form__button {
+  height: 45px;
+  font-size: 18px;
+  border-radius: 0;
+  border: none;
+  background-color: #5a5a5a;
+  color: #ffffff;
+}

@@ -1,0 +1,13 @@
+.todo-list__item {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.complete {
+    text-decoration: line-through;
+    color: #a5a3a3;
+}
+
+label {
+    color: #5a5a5a;
+}
