@@ -1,9 +1,9 @@
 ## React Todo List
 
-### Учебный проект в рамках изучения React.
+### React learning project.
 
 https://svyatkotov.github.io/todo-list/
 
-Реализованная функциональность:
- * Добавление задачи в список;
- * Выделение выполненной задачи.
+Implemented functionality:
+ * Adding a task to the list;
+ * Highlighting the completed task.
